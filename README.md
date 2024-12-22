@@ -8,5 +8,6 @@ If you use this data in your work, please cite:
 The datasets in the 'data/' folder of this project are data that have been encoded with one-hot (2D) encoding and descriptive feature encoding.
 # 2 Model Training And Predicting
 Here, we take training the LwaCas13a classification model as an example：
+
   python LwaCas13a_Classification_Model.py
 
